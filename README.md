@@ -7,5 +7,5 @@
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=bogushevichanton.bogushevichanton&query_only=true&format=true"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=bogushevichanton.bogushevichanton&query_only=true&format=true"/>
 </div>
