@@ -7,5 +7,7 @@
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=bogushevichanton.bogushevichanton&format=true"/>
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=BogushevichAnton&label=Profile%20Views%20%F0%9F%91%80&color=1&icon=0&pretty=true" />
+</a>
 </div>
