@@ -3,9 +3,9 @@
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGRudWcwZXJ6c21sZmQ5ZjJhOTRnb3M1ODlreXQ5dXQ2MXVoMnJ4YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.gif" width="100"/>
 </div>
 
-<div id="links" align="center">
+<div id="links" align="center" >
   <a href="https://t.me/alonemooo">
-    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
+    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" width="100"/>
   </a>
 </div>
 
@@ -29,3 +29,5 @@
   <img src="https://visitcount.itsvg.in/api?id=BogushevichAnton&label=Profile%20Views%20%F0%9F%91%80&color=1&icon=0&pretty=true" />
 </a>
 </div>
+
+[//]: # ([![Readme Card]&#40;https://github-readme-stats.vercel.app/api/pin/?username=BogushevichAnton&repo=BogushevichAnton&#41;]&#40;https://github.com/BogushevichAnton/BogushevichAnton&#41;)
