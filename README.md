@@ -21,13 +21,3 @@
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) 
-## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=BogushevichAnton&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact&hide=javascript)
----
-<div align="center">
-<a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=BogushevichAnton&label=Profile%20Views%20%F0%9F%91%80&color=1&icon=0&pretty=true" />
-</a>
-</div>
-
-[//]: # ([![Readme Card]&#40;https://github-readme-stats.vercel.app/api/pin/?username=BogushevichAnton&repo=BogushevichAnton&#41;]&#40;https://github.com/BogushevichAnton/BogushevichAnton&#41;)
